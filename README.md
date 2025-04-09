@@ -31,7 +31,4 @@ The assignment includes the following questions:
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/python-basics-assignment.git
-   cd python-basics-assignment
+1. Just go through the link "https://github.com/Sachin8933/Assignment-1-Python-Basic/blob/main/Assignment_1.ipynb"
